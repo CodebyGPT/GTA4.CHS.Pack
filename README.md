@@ -1,5 +1,3 @@
-*⚠️ 这是一个用于托管来自第三方的文件的仓库，不是一个开源项目的仓库。*
-
 # 适用于GTA4三合一版本(1.2.0.43及以上)的汉化+增强资源，确保游戏能在现代环境下正常运行的同时获得更完善的游玩体验。
 
 ## 适配的游戏
@@ -18,5 +16,5 @@ GTA4是D3D9游戏，因此不兼容Windows11的自动HDR功能（Windows Auto HD
 ## 参考
 [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV)。
 
-## CDMA
+## 讨论/CDMA
 [本仓库Issues页面](https://github.com/CodebyGPT/GTA4.CHS.Pack/issues)。
