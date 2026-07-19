@@ -14,6 +14,9 @@ Grand Theft Auto IV 1.2.0.43+（即 Grand Theft Auto IV: The Complete Edition）
 
 **其他显卡用户**：（暂无）
 
+## 建议启动参数
+`-norestrictions -nomemrestrict -high -disable3dnow -disablevsync -fullspecaudio -d3dmt`
+
 ## 参考
 [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV)
 
